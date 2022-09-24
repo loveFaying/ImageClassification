@@ -2,5 +2,3 @@
 
 ### VisionTransformer
 ### SwinTransformer
-### networks
--
